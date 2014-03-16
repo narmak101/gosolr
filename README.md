@@ -1,0 +1,4 @@
+gosolr
+======
+
+Go Solr Client
